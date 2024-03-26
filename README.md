@@ -17,8 +17,8 @@ End the program
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by  : Bharathraj P
-#RegisterNumber: 212223230031
+#Developed by  :   Navinkumar V
+#RegisterNumber:  212223230141
 
 import numpy as np
 a = np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
@@ -27,7 +27,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![image](https://github.com/Bharathraj2006/EIGENVALUES-AND-EIGENVECTORS/assets/152376845/d8d59668-2b2c-49d9-92a1-74a6ae9b58b2)
+![Screenshot 2024-03-26 143159](https://github.com/navinofficial/EIGENVALUES-AND-EIGENVECTORS/assets/151710204/5fe9958a-d87e-4819-8ceb-244e50601f31)
+
 
 
 ## Result:
